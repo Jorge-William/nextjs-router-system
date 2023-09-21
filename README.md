@@ -1,2 +1,6 @@
-# nextjs-router-system
-Routing with Next.js
+# Solid Principles
+- Single Responsability
+- Open Closed
+- Liskov Substitution
+- Interface Segregation
+- Dependency Iversion
